@@ -1,0 +1,53 @@
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+
+#Mac Junk
+.DS_Store
+
+
+# For Firebase
+
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+lerna-debug.log
+*~
+service-account-credentials.json
+**/package-lock.json
