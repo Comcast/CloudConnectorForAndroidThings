@@ -215,12 +215,13 @@ ONE_SEVENTY.
 
 
 
+## Contributing
 
+Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## License
 
- 
-
-
+Refer to [LICENSE](LICENSE.txt)
 
 
  
