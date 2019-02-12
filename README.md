@@ -31,7 +31,7 @@ easily actuate this Servo from any web client.
 Many thanks to James Coggan and his AndroidThings Workshop (https://github.com/jamescoggan/AndroidThingsWorkshop).  
 He's a great inspiration and this project borrows from his work!
 
-Also, thanks to Unsplash.com for their Philly 'Love' photo.
+Also, thanks to [Unsplash](http://unsplash.com) for their Philly 'Love' photo.
 
 ## Let's get started!
 
