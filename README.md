@@ -25,9 +25,15 @@ The FirebaseDatabase and Firebase Function code included in this project provide
 easily actuate this Servo from any web client.
 
 
-Many thanks to James Coggan and his AndroidThings Workshop (https://github.com/jamescoggan/AndroidThingsWorkshop).  
-This project borrows from his work!
+## Credits
 
+
+Many thanks to James Coggan and his AndroidThings Workshop (https://github.com/jamescoggan/AndroidThingsWorkshop).  
+He's a great inspiration and this project borrows from his work!
+
+Also, thanks to Unsplash.com for their Philly 'Love' photo.
+
+## Let's get started!
 
 **Step 1:  Hardware Setup**
 
