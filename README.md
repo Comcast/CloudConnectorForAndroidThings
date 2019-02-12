@@ -1,4 +1,4 @@
-# FirebaseWithAndroidThings
+# CloudConnectorForAndroidThings
 ## an AndroidThings Playground
 
 [AndroidThings](https://developer.android.com/things/) is a fairly new Internet of Things (IoT) rapid-prototyping 
